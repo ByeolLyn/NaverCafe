@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  iframe 기반 게시판 + 기본 구조 게시판 모두 지원
+// @author       별린
 // @match        https://cafe.naver.com/*
 // @grant        none
 // ==/UserScript==
